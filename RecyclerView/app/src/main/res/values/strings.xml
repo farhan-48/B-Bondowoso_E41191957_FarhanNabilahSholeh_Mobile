@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="desc_pantai_papuma">
+        Pantai yang satu ini sudah sangat di kenal oleh banyak masyarakat terutama para wisatawan lokal, pantai indah yang di kelilingi tebing di setiap sisi nya.
+    </string>
+    <string name="desc_patai_puger">
+        Pantai ini berada di kabupaten dari kota ini yang satu jalur dengan jalan menuju Gunung Bromo. Pantai ini tidak kalah menarik dan indah seperti beberapa pantai lainnya. Pantai ini memiliki ombak yang cukup tenang akan tetapi dapat berubah sewaktu-waktu.
+    </string>
+    <string name="desc_watu_ulo">
+        Pantai yang satu ini memiliki nama Pantai Watu Ulo yang dalam bahasa Jawa memiliki arti Pantai Batu Ular. Menurut legenda batu tersebut tadinya merupakan se ekor ular raksasa yang berubah menjadi batu.
+    </string>
+    <string name="desc_teluk_love">
+        Destinasi Wisata ini di namakan seperti itu karena jika di lihat dari kejauhan memiliki bentuk yang mirip dengan bentuk hati. Serta ada dataran tinggi yang nantinya bisa Anda manfaatkan untuk berfoto ria.
+    </string>
+    <string name="desc_perkebunan_teh">
+        Kawasan wisata satu ini sudah terkenal dengan keindahannya, sehingga menjadikan sebuah daya tarik tersendiri. Yang mana tempat ini terkenal dengan keindahan panorama alamnya dan bahkan hawa sejuk di pegunungan ini memberikan kesan yang sangat asri dan menyejukkan.
+    </string>
+    <string name="desc_nusa_barong">
+        Pulau ini merupakan pulau yang masih asri dan memiliki beberapa hewan yang hidup di dalamnya. Sekilas tempat ini juga di juluki sebagai Pulau Ular mengingat pada tempat ini terdapat beberapa hewan liar yang masih berkeliaran.
+    </string>
+    <string-array name="title">
+        <item>Pantai Papuma</item>
+        <item>Pantai Puger</item>
+        <item>Pantai Watu Ulo</item>
+        <item>Teluk Love</item>
+        <item>Perkebunan Teh Gunung Gambir</item>
+        <item>Pulau Nusa Barong</item>
+    </string-array>
+    <string-array name="desc">
+        <item>
+            Pantai yang satu ini sudah sangat di kenal oleh banyak masyarakat terutama para wisatawan lokal, pantai indah yang di kelilingi tebing di setiap sisi nya.
+        </item>
+        <item>
+            Pantai ini berada di kabupaten dari kota ini yang satu jalur dengan jalan menuju Gunung Bromo. Pantai ini tidak kalah menarik dan indah seperti beberapa pantai lainnya. Pantai ini memiliki ombak yang cukup tenang akan tetapi dapat berubah sewaktu-waktu.
+        </item>
+        <item>
+            Pantai yang satu ini memiliki nama Pantai Watu Ulo yang dalam bahasa Jawa memiliki arti Pantai Batu Ular. Menurut legenda batu tersebut tadinya merupakan se ekor ular raksasa yang berubah menjadi batu.
+        </item>
+        <item>
+            Destinasi Wisata ini di namakan seperti itu karena jika di lihat dari kejauhan memiliki bentuk yang mirip dengan bentuk hati. Serta ada dataran tinggi yang nantinya bisa Anda manfaatkan untuk berfoto ria.
+        </item>
+        <item>
+            Kawasan wisata satu ini sudah terkenal dengan keindahannya, sehingga menjadikan sebuah daya tarik tersendiri. Yang mana tempat ini terkenal dengan keindahan panorama alamnya dan bahkan hawa sejuk di pegunungan ini memberikan kesan yang sangat asri dan menyejukkan.
+        </item>
+        <item>
+            Pulau ini merupakan pulau yang masih asri dan memiliki beberapa hewan yang hidup di dalamnya. Sekilas tempat ini juga di juluki sebagai Pulau Ular mengingat pada tempat ini terdapat beberapa hewan liar yang masih berkeliaran.
+        </item>
+    </string-array>
+</resources>
